@@ -1,12 +1,11 @@
 <template>
   <div id="app">
-    test
-    <HelloWorld  />
+    <HelloWorld />
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/TestComponent.vue";
+import HelloWorld from "./components/Fitness.vue";
 
 export default {
   name: "App",

@@ -11,7 +11,7 @@ export default {
 
 export const ToStorybook = () => ({
   components: { Welcome },
-  template: '<welcome/>',
+  template: '<div class="max-w-sm relative"><welcome/></div>',
   methods: { action: linkTo('Button') },
 });
 

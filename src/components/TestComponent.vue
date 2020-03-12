@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen bg-orange-400">
+  <div class="h-screen bg-orange-400 ">
     <!-- header -->
     <div class="flex items-baseline px-5 pt-16 justify-between">
       <button class="text-white text-lg">Back</button>
