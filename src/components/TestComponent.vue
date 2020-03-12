@@ -1,8 +1,9 @@
 <template>
-  <div>Nix hier
+  <div class="container mx-auto py-10"><h1>Test Component</h1>
   <h1>Maraschki</h1>
-  </div>
   
+  
+  </div>
 </template>
 
 <script>
