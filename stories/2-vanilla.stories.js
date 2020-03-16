@@ -4,6 +4,7 @@ import { linkTo } from '@storybook/addon-links';
 import Vanila from '../src/components/VanillaLanding';
 import Navbar from '../src/components/navBar'
 import HeaderComponent from '../src/components/Header'
+import StickyHeader from '../src/components/Section'
 
 export default {
   title: 'Vanilla',
@@ -25,6 +26,12 @@ export const NavBar = () => ({
 export const Head = () => ({
   components: { HeaderComponent },
   template: '<div class=""><HeaderComponent/></div>',
+  methods: { action: linkTo('Button') },
+});
+
+export const Sticky = () => ({
+  components: { StickyHeader },
+  template: '<div class=""><StickyHeader/></div>',
   methods: { action: linkTo('Button') },
 });
 

@@ -1,7 +1,7 @@
 <template>
   <div>
     <div
-      class=" mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 flex flex-wrap justify-center items-center"
+      class="mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 flex flex-wrap justify-center items-center"
     >
       <div class="sm:text-center lg:text-left lg:w-1/2">
         <h2
@@ -30,10 +30,10 @@
         </div>
       </div>
 
-      <div class="lg:w-1/2">
+      <div class="lg:w-1/2 mt-10">
         <img
-          src="https://uploads-ssl.webflow.com/5bddf05642686caf6d17eb58/5e67e117d54abcaf12ae7b20_Hero_Canvas-p-1600.png"
-          alt
+          class="shadow-2xl object-cover"
+          src="https://uploads-ssl.webflow.com/5c349f90a3cd4515d0564552/5c9b9c6dce34858f8d3ab01b_personalNotes.png"
         />
       </div>
     </div>
