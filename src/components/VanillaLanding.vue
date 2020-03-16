@@ -1,8 +1,7 @@
 <template>
   <div class="bg-gray-100 text-gray-900">
     <navBar />
-
-    <Header class="h-screen items-center flex" />
+    <Header class="items-center flex lg:h-screen" />
   </div>
 </template>
 

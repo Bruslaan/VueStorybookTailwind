@@ -1,7 +1,7 @@
 <template>
-  <div class="relative antialiased text-gray-900 z-50">
+  <div class="relative antialiased text-gray-900">
     <nav
-      class="border-b w-full flex items-center h-20 bg-white fixed lg:justify-between px-5 top-0"
+      class="fixed border-b w-full flex items-center h-20 bg-white lg:justify-between px-5 top-0"
     >
       <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
         <div class="flex items-center justify-between w-full md:w-auto">

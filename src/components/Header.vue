@@ -1,9 +1,9 @@
 <template>
   <div>
     <div
-      class="mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 flex flex-wrap justify-center items-center"
+      class="mt-10 mx-auto max-w-screen-xl px-4 mt-40 sm:mt-64 sm:px-6 md:mt-64 lg:mt-20 lg:px-8 xl:mt-28 flex flex-wrap justify-center items-center"
     >
-      <div class="sm:text-center lg:text-left lg:w-1/2">
+      <div class="text-center lg:text-left lg:w-1/2">
         <h2
           class="text-4xl tracking-tight leading-10 font-hairline text-gray-900 sm:text-5xl sm:leading-none md:text-6xl"
         >
