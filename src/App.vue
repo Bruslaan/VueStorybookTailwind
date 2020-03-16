@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import HelloWorld from "./components/Fitness.vue";
+import HelloWorld from "./components/VanillaLanding.vue";
 
 export default {
   name: "App",

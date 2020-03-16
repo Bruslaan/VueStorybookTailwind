@@ -85,8 +85,7 @@
 export default {};
 </script>
 
-<style>
-
+<style >
 
 .leftRadius {
   border-top-left-radius: 50px;

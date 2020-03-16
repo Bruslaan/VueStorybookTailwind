@@ -1,6 +1,4 @@
 import { linkTo } from '@storybook/addon-links';
-import '../src/assets/index.css' 
-
 
 import Fitness from '../src/components/Fitness';
 
