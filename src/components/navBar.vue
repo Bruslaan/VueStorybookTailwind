@@ -1,13 +1,13 @@
 <template>
-  <div class="antialiased text-gray-900">
+  <div class="relative antialiased text-gray-900 z-50">
     <nav
-      class=" border relative flex items-center h-20 fixed lg:justify-between px-5"
+      class="border-b w-full flex items-center h-20 bg-white fixed lg:justify-between px-5 top-0"
     >
       <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
         <div class="flex items-center justify-between w-full md:w-auto">
-          <a href="#">
+          <a class="text-yellow-800 font-hairline">
             <!-- <img class="h-8 w-auto sm:h-10" src="/img/logos/workflow-mark-on-white.svg" alt /> -->
-            Logo
+            VANILLA
           </a>
           <div class="-mr-2 flex items-center md:hidden">
             <button
@@ -44,7 +44,6 @@
           href="#"
           class="ml-8 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out"
         >Company</a>
-
       </div>
     </nav>
 

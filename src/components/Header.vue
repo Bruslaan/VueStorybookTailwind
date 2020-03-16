@@ -1,7 +1,7 @@
 <template>
   <div>
     <div
-      class="mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 flex flex-wrap justify-center"
+      class=" mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 flex flex-wrap justify-center items-center"
     >
       <div class="sm:text-center lg:text-left lg:w-1/2">
         <h2
