@@ -32,7 +32,7 @@
 
       <div class="lg:w-1/2 mt-10">
         <img
-          class="shadow-2xl object-cover"
+          class="shadow-lg object-cover"
           src="https://uploads-ssl.webflow.com/5c349f90a3cd4515d0564552/5c9b9c6dce34858f8d3ab01b_personalNotes.png"
         />
       </div>
