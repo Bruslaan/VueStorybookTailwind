@@ -1,6 +1,7 @@
 import { linkTo } from '@storybook/addon-links';
 
 import Fitness from '../src/components/Fitness';
+import FitnessHomeScreen from '../src/components/FitnessHome';
 
 export default {
   title: 'Fitness',
@@ -10,6 +11,13 @@ export default {
 export const ToStorybook = () => ({
   components: { Fitness },
   template: '<div class=""><Fitness/></div>',
+  methods: { action: linkTo('Button') },
+});
+
+
+export const FitnessHome = () => ({
+  components: { FitnessHomeScreen },
+  template: '<div class=""><FitnessHomeScreen/></div>',
   methods: { action: linkTo('Button') },
 });
 

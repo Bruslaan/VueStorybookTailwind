@@ -4,7 +4,9 @@
     <Header class="items-center flex lg:h-screen" />
     <FirstSection class="mt-12" />
 
-    <div class="mx-6 mt-10 max-w-xl md:mx-auto">
+
+
+    <div class="mx-6 mt-64 max-w-xl md:mx-auto">
     <Acordion name="Services"/>
     <Acordion name="Cookies"/>
     <Acordion name="Datenschutz"/>
