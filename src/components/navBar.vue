@@ -5,9 +5,9 @@
     >
       <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
         <div class="flex items-center justify-between w-full md:w-auto">
-          <a class="text-yellow-800 font-hairline">
+          <a class="text-orange-500 ">
             <!-- <img class="h-8 w-auto sm:h-10" src="/img/logos/workflow-mark-on-white.svg" alt /> -->
-            VANILLA
+            <slot name="logo"></slot>
           </a>
           <div class="-mr-2 flex items-center md:hidden">
             <button

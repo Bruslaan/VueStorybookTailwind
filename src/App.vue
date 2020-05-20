@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import HelloWorld from "./components/FitnessHome.vue";
+import HelloWorld from "./components/VanillaLanding.vue";
 
 export default {
   name: "App",
@@ -16,4 +16,7 @@ export default {
 </script>
 
 <style>
+body {
+  background-color: #f7fafc;
+}
 </style>
