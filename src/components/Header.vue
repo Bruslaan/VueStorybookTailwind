@@ -28,8 +28,8 @@
 
       <div class="lg:w-1/2 mt-10">
         <img
-          class="shadow-lg object-cover"
-          src="https://uploads-ssl.webflow.com/5c349f90a3cd4515d0564552/5c9b9c6dce34858f8d3ab01b_personalNotes.png"
+          class="object-cover"
+          src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80"
         />
       </div>
     </div>
