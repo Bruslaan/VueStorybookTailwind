@@ -1,13 +1,13 @@
 <template>
   <div>
     <!-- component -->
-    <div class="max-w-sm rounded overflow-hidden  border m-5">
+    <div class="max-w-sm rounded overflow-hidden  border m-5 hover:bg-gray-100">
       <img class="w-full" src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80" alt="Sunset in the mountains" />
       <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">Gericht <slot name="name"></slot></div>
         <p
           class="text-gray-700 text-base"
-        >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.</p>
+        >exercitationem praesentium nihil.</p>
       </div>
       <div class="px-6 py-4">
         <span
